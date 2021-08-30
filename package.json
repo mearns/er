@@ -1,6 +1,6 @@
 {
-  "name": "PROJECT_NAME",
-  "version": "0.1.1",
+  "name": "er",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -11,14 +11,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:mearns/PROJECT_NAME.git"
+    "url": "git@github.com:mearns/er.git"
   },
   "author": "Brian Mearns <mearns.b@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mearns/PROJECT_NAME/issues"
+    "url": "https://github.com/mearns/er/issues"
   },
-  "homepage": "https://github.com/mearns/PROJECT_NAME/",
+  "homepage": "https://github.com/mearns/er/",
   "engines": {
     "node": ">=16 <=18"
   },
